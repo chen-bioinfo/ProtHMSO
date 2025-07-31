@@ -7,3 +7,4 @@ Protein sequence design for tailored functional properties is a fundamental task
 <img width="1157" height="252" alt="image" src="https://github.com/user-attachments/assets/cd70ea9b-d069-463c-989d-adc0a0ea293e" />
 <img width="839" height="289" alt="image" src="https://github.com/user-attachments/assets/7b4ab778-d632-4fa2-bf38-4bddef21a3e9" />
 
+# How to use
