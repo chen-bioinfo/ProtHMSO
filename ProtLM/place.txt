@@ -1,0 +1,1 @@
+Download 'facebook/esm2_t33_650M_UR50D' directly from HuggingFace
